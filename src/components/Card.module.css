@@ -1,0 +1,12 @@
+.div{
+  border: 1px solid black;
+  text-align: center;
+}
+.image{
+  height: 200px;
+  width: 300px;
+}
+.rating{
+  display: flex;
+  justify-content: space-around;
+}

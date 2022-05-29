@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx-fUef51JVBi33YU5oAToVqKvcNL0JT9o9g&usqp=CAU",
+      "Name": "Pet Puja",
+      "DishType": "Desi,Indian",
+      "Cost": "300",
+      "PaymentMethod": "Cash",
+      "Rating": 4.1,
+      "Review": 405,
+      "Votes": 340
+    },
+    {
+      "id": 2,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3nwWU4hSArOV602UxJBDiftc6p1ik7TwgQA&usqp=CAU",
+      "Name": "Hungry Heads",
+      "DishType": "Italian",
+      "Cost": "600",
+      "PaymentMethod": "Card",
+      "Rating": 3.9,
+      "Review": 726,
+      "Votes": 666
+    },
+    {
+      "id": 3,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdysvm3_C5X1WkzYv09aUYMGNUrddInpkJLA&usqp=CAU",
+      "Name": "Bapu Ki Kuttiya",
+      "DishType": "South Indian",
+      "Cost": "800",
+      "PaymentMethod": "UPI",
+      "Rating": 2.8,
+      "Review": 739,
+      "Votes": 524
+    },
+    {
+      "id": 4,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUihKIfNdB71AViWDPYGNh4gyTmFi_2fnP2Q&usqp=CAU",
+      "Name": "Punjabi da Dhaba",
+      "DishType": "Punjabi",
+      "Cost": "350",
+      "PaymentMethod": "UPI",
+      "Rating": 4.3,
+      "Review": 430,
+      "Votes": 699
+    },
+    {
+      "id": 5,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ZQweZXJuwPizDP_oV1Qg27jrme9FQ9IXBw&usqp=CAU",
+      "Name": "Babu Mushay's Dhaba",
+      "DishType": "Bengali",
+      "Cost": "370",
+      "PaymentMethod": "Cash",
+      "Rating": 4.2,
+      "Review": 628,
+      "Votes": 471
+    },
+    {
+      "id": 6,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrO4sVFbBWriQdeuyS3HR-BZTuso6rDBUeHg&usqp=CAU",
+      "Name": "Kailash da Dhaba",
+      "DishType": "Rajasthani",
+      "Cost": "450",
+      "PaymentMethod": "Card",
+      "Rating": 4.3,
+      "Review": 801,
+      "Votes": 704
+    },
+    {
+      "id": 7,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr6wFeKnm9jDgPu79pz7pLVGokr3fnE8LNAw&usqp=CAU",
+      "Name": "Shahenshah Restaurant ",
+      "DishType": "Asian",
+      "Cost": "1000",
+      "PaymentMethod": "UPI",
+      "Rating": 4.4,
+      "Review": 918,
+      "Votes": 694
+    },
+    {
+      "id": 8,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA86eCtAZMc5lTCz6JobAffBw7QdO8lQ5Quw&usqp=CAU",
+      "Name": "Chatore",
+      "DishType": "Sasta Chinese",
+      "Cost": "100",
+      "PaymentMethod": "Card",
+      "Rating": 4.2,
+      "Review": 911,
+      "Votes": 765
+    },
+    {
+      "id": 9,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzb0IFD9i42VcxKBRLdtzQsQHEKrXWJuqBEw&usqp=CAU",
+      "Name": "Hakeems",
+      "DishType": "Desserts",
+      "Cost": "500",
+      "PaymentMethod": "Cash",
+      "Rating": 3.5,
+      "Review": 777,
+      "Votes": 677
+    },
+    {
+      "id": 10,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy4vsAgy_1-Hcs5pr0xjuTw5yfAOePsp9wSg&usqp=CAU",
+      "Name": "Veera da Dhaba",
+      "DishType": "Asian,Thai",
+      "Cost": "289",
+      "PaymentMethod": "Card",
+      "Rating": 3.7,
+      "Review": 567,
+      "Votes": 488
+    },
+    {
+      "id": 11,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Xv55O-BCjk_y68wb_vIKWHafkxbf_R8mlA&usqp=CAU",
+      "Name": "Rajoriya",
+      "DishType": "Veg",
+      "Cost": "230",
+      "PaymentMethod": "Cash",
+      "Rating": 5,
+      "Review": 934,
+      "Votes": 599
+    },
+    {
+      "id": 12,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8u_NksPq4NvdOXsKBI2sLOqXvKpDbwM0Nw&usqp=CAU",
+      "Name": "Chotu Korner",
+      "DishType": "Kashmiri",
+      "Cost": "310",
+      "PaymentMethod": "UPI",
+      "Rating": 1.9,
+      "Review": 1007,
+      "Votes": 786
+    },
+    {
+      "id": 13,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgWlL3_cRxm3tByt7LUd6CNQVE4J6WZGdYvA&usqp=CAU",
+      "Name": "Khana Khajana",
+      "DishType": "Asian",
+      "Cost": "440",
+      "PaymentMethod": "Cash",
+      "Rating": 2.3,
+      "Review": 656,
+      "Votes": 368
+    },
+    {
+      "id": 14,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4_vgJUFBZFB87UAtMqQINZ3arnyxtF_nDA&usqp=CAU",
+      "Name": "Mangal Pandey",
+      "DishType": "Energy Drinks",
+      "Cost": "90",
+      "PaymentMethod": "UPI",
+      "Rating": 4.8,
+      "Review": 505,
+      "Votes": 755
+    },
+    {
+      "id": 15,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREI4hh2dDl160t_XOAt2x4Git8mi2pFbqEsQ&usqp=CAU",
+      "Name": "Grill n Chill",
+      "DishType": "Non-Veg",
+      "Cost": "899",
+      "PaymentMethod": "Card",
+      "Rating": 3.8,
+      "Review": 840,
+      "Votes": 392
+    },
+    {
+      "id": 16,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yjFnmcWcxnF7Chjs665okbqwzKF4DG-E4Q&usqp=CAU",
+      "Name": "Nibba-Nibbi Restaurant",
+      "DishType": "Snacks",
+      "Cost": "60",
+      "PaymentMethod": "UPI",
+      "Rating": 4.5,
+      "Review": 506,
+      "Votes": 440
+    },
+    {
+      "id": 17,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlgP0f71oBZZ8gIP79rOfMHgqCHcHKlIZsFw&usqp=CAU",
+      "Name": "Bachpan ka Pyar ",
+      "DishType": "Special Thali",
+      "Cost": "99",
+      "PaymentMethod": "Cash",
+      "Rating": 1.3,
+      "Review": 565,
+      "Votes": 401
+    },
+    {
+      "id": 18,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC-FJvUPX7iuEINsl86ksUlJDXS-ZuvWaxlg&usqp=CAU",
+      "Name": "Kacha Badam",
+      "DishType": "Dry Fruits",
+      "Cost": "1000",
+      "PaymentMethod": "Card",
+      "Rating": 3.6,
+      "Review": 694,
+      "Votes": 568
+    },
+    {
+      "id": 19,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5OhVJGIZ1zhqgArjYdtARgc1eOICdWYGqaw&usqp=CAU",
+      "Name": "The Salad Life",
+      "DishType": "Salads",
+      "Cost": "299",
+      "PaymentMethod": "Card",
+      "Rating": 3,
+      "Review": 669,
+      "Votes": 678
+    },
+    {
+      "id": 20,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS52koqLBjKnerzKaUxQu1zMEW5aVb53qFUiQ&usqp=CAU",
+      "Name": "Pitcher",
+      "DishType": "Starter",
+      "Cost": "499",
+      "PaymentMethod": "UPI",
+      "Rating": 4.9,
+      "Review": 460,
+      "Votes": 438
+    }
+  ]
+}
